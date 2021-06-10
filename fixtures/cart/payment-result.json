@@ -1,0 +1,24 @@
+{
+    "accessCode": "CypressShopTest",
+    "authorisationCode": "935902",
+    "responseCode": "00",
+    "responseMessage": "A2000",
+    "invoiceNumber": "",
+    "invoiceReference": "",
+    "totalAmount": 11259,
+    "transactionID": 25988403,
+    "transactionStatus": true,
+    "tokenCustomerID": 912602188588,
+    "verification": {
+        "cvn": 0,
+        "address": 0,
+        "email": 0,
+        "mobile": 0,
+        "phone": 0
+    },
+    "beagleVerification": {
+        "email": 0,
+        "phone": 0
+    },
+    "errors": null
+}

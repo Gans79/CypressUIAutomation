@@ -1,0 +1,42 @@
+{
+    "accessCode": "CypressShopTest",
+    "customer": {
+        "cardNumber": "",
+        "cardStartMonth": "",
+        "cardStartYear": "",
+        "cardIssueNumber": "",
+        "cardName": "",
+        "cardExpiryMonth": "",
+        "cardExpiryYear": "",
+        "isActive": false,
+        "tokenCustomerID": null,
+        "reference": "",
+        "title": "Mr.",
+        "firstName": "ganesh",
+        "lastName": "R",
+        "companyName": "",
+        "jobDescription": "",
+        "street1": "",
+        "street2": "",
+        "city": "",
+        "state": "",
+        "postalCode": "",
+        "country": "au",
+        "email": "",
+        "phone": "",
+        "mobile": "",
+        "comments": "",
+        "fax": "",
+        "url": ""
+    },
+    "payment": {
+        "totalAmount": 1000,
+        "invoiceNumber": null,
+        "invoiceDescription": null,
+        "invoiceReference": null,
+        "currencyCode": "AUD"
+    },
+    "formActionURL": "/checkout/pay?AccessCode=CypressShopTest",
+    "completeCheckoutURL": null,
+    "errors": null
+}

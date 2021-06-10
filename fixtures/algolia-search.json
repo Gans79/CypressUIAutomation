@@ -1,0 +1,82 @@
+{
+    "results": [{
+        "hits": [
+            {
+            "designation": "ISO 1207:2011",
+            "title": "Slotted cheese head screws — Product grade A",
+            "synopsis": "The main task of technical committees is to prepare International Standards ...",
+            "published_date": "01-Aug-2011",
+            "docType": "Standard",
+            "objectID": "79383742",
+            "_highlightResult": {
+                "designation": {
+                    "value": "ISO 1207:2011",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "title": {
+                    "value": "Slotted cheese head screws — Product grade A",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "synopsis": {
+                    "value": "The main task of technical committees is to prepare International Standards. Draft International Standards adopted by the technical committees are circulated to the member bodies for voting. Publication as an International Standard requires approval by at least 75 % of the member bodies casting a vote.",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "docType": {
+                    "value": "Standard",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+            {
+                "designation": "AS 1418.11:2014",
+                "title": "Cranes, hoists and winches, Part 11: Vehicle-loading cranes (EN 12999:2011, MOD)",
+                "synopsis": "This Standard sets out requirements for vehicle-loading cranes.",
+                "published_date": "27-Jun-2014",
+                "docType": "Standard",
+                "objectID": "90321001",
+                "_highlightResult": {
+                    "designation": {
+                        "value": "AS 1418.11:2014",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "title": {
+                        "value": "Cranes, hoists and winches, Part 11: Vehicle-loading cranes (EN 12999:<ResultHighlight>2011</ResultHighlight>, MOD)",
+                        "matchLevel": "partial",
+                        "matchedWords": []
+                    },
+                    "synopsis": {
+                        "value": "This Standard sets out requirements for vehicle-loading cranes.",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "docType": {
+                        "value": "Standard",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    }
+                }
+            }
+        ],
+        "nbHits": 2,
+        "page": 0,
+        "nbPages": 1,
+        "hitsPerPage": 10,
+        "facets": {
+            "status": {
+                "Current": 2
+            },
+            "docType": {
+                "Standard": 2
+            },
+            "publisher": {
+                "ISO": 1
+            }
+        },
+        "exhaustiveFacetsCount": false
+    }]
+}

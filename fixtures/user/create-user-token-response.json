@@ -1,0 +1,9 @@
+{
+    "token_type": "Bearer",
+    "expires_in": "3599",
+    "ext_expires_in": "3599",
+    "expires_on": "1601531507",
+    "not_before": "1601527607",
+    "resource": "00000002-0000-0000-c000-000000000000",
+    "access_token": "CypressShopTest"
+}

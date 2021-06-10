@@ -1,0 +1,40 @@
+{
+    "orderId": 1,
+    "deliveryFeeInCents": 0,
+    "products": [
+        {
+            "code": 123,
+            "designation": "ASMaster",
+            "type": "PDFWebviewer",
+            "listPrice": 82.3,
+            "availability": "Available",
+            "distributorId": "",
+            "distributorPrice": 104.82,
+            "isPurchased": false
+        }
+    ],
+    "shippingAddress": null,
+    "billingAddress": {
+        "addressId": 259,
+        "firstName": "Automation",
+        "lastName": "User",
+        "companyName": "Shop",
+        "line1": "36 Cowper St",
+        "line2": "",
+        "suburb": "Parramatta",
+        "state": "NSW",
+        "country": "Australia",
+        "postCode": "2000",
+        "phone": "+61 435099344",
+        "email": "test@automation.com",
+        "type": "Billing",
+        "createdAt": 123,
+        "deletedAt": 0
+    },
+    "maskedCardDetails": {
+        "number": "444433XXXXXX1111",
+        "name": "as",
+        "expiryMonth": "12",
+        "expiryYear": "20"
+    }
+}
