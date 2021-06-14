@@ -1,0 +1,11 @@
+{
+  "baseUrl": "http://localhost:5000",
+  "video": false,
+  "defaultCommandTimeout": 10000,
+  "chromeWebSecurity": false,
+  "blacklistHosts": [
+    "cdn.jsdelivr.net",
+    "*.azurewebsites.net",
+    "*servicebus.windows.net"
+  ]
+}
